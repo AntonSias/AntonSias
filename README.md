@@ -10,13 +10,7 @@
   - :video_game: Me encantan los videojuegos!!
   - :man_cook: Mi anterior profesión era cocinero, así que soy y siempre seré un cocinillas!!
 
-# Habilidades
-
-- **Java, C#, Python, Android**
-- **Manejo de BBDD**
-- **Control de versiones** 
-- **Desarrollo Web**
-- **DevOps**
+---
 
 # Hello :wave:
 
@@ -29,6 +23,8 @@
   - :robot: I'm passionate about technology :)
   - :video_game: I love video games!!
   - :man_cook: My previous profession was a chef, so I'm and always will be a foodie!!
+
+---
 
 # Skills
 
