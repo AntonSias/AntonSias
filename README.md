@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hola :wave:
 
-<!--
-**AntonSias/AntonSias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me llamo Antón y soy de España. Estoy empezando en el maravilloso mundo de la programación informática!! :computer:
 
-Here are some ideas to get you started:
+- :mortar_board: Actualmente estoy terminando el ciclo superior de DAM (Diseño de aplicaciones multiplataforma) en @UNIR !!
+- :white_check_mark: Mi objetivo es terminar los estudios actuales y poder demostrar mis habilidades en el mundo laboral :briefcase:
+- :books: Seguir formándome en el mundo de la programación
+- :dancer: Mis hobbies son:
+  - :robot: Soy un apasionado de la tecnología :)
+  - :video_game: Me encantan los videojuegos!!
+  - :chef: Mi anterior profesión era cocinero, así que soy y siempre seré un cocinillas!!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Habilidades
+
+- **Java, C#, Python, Android**
+- Manejo de BBDD
+- Control de versiones 
+- Desarrollo Web
+- DevOps
+
+- Inteligencia emocional
+- Adaptación al cambio
+- Trabajo en equipo
+- Resolución de problemas
+- Aprendizaje activo
