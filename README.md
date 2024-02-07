@@ -8,18 +8,14 @@
 - :dancer: Mis hobbies son:
   - :robot: Soy un apasionado de la tecnología :)
   - :video_game: Me encantan los videojuegos!!
-  - :chef: Mi anterior profesión era cocinero, así que soy y siempre seré un cocinillas!!
+  - :man_cook: Mi anterior profesión era cocinero, así que soy y siempre seré un cocinillas!!
 
 # Habilidades
 
 - **Java, C#, Python, Android**
-- Manejo de BBDD
-- Control de versiones 
-- Desarrollo Web
-- DevOps
+- **Manejo de BBDD**
+- **Control de versiones** 
+- **Desarrollo Web**
+- **DevOps**
 
-- Inteligencia emocional
-- Adaptación al cambio
-- Trabajo en equipo
-- Resolución de problemas
-- Aprendizaje activo
+
